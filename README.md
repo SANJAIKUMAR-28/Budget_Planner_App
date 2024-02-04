@@ -1,4 +1,5 @@
-#Budget Hero: Conquer Your Finances with Simple, Smart Planning
+# Budget Hero: Conquer Your Finances with Simple, Smart Planning
+
 Budget Hero is your personal finance champion, empowering you to take control of your money and achieve your financial goals. Our user-friendly budget planner app makes managing your finances effortless, helping you spend consciously, save effectively, and build a brighter financial future.
 
 Key Features:
